@@ -80,3 +80,4 @@ Received Import Request.
 Start importing Assets/Scripts/Systems/InventorySystem/InventoryUI.cs using Guid(211a63aefd5e2ac4f8a04b792d34442c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3197b1299275421e22bf0817dcdf9589') in 0.071004 seconds
   Import took 0.084012 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
